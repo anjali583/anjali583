@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anjali583
+- 👀 I’m interested in Data Analysis and statistics
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me p.anjali@gmail.com
